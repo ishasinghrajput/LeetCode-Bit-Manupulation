@@ -1,2 +1,2 @@
 # LeetCode-Bit-Manupulation
-my 30 LeetCode solution in python
+my 30 LeetCode solution
